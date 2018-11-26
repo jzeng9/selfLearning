@@ -36,6 +36,11 @@ Try to determine how many people can be picked up by the car in `k` steps.
 
 Provide the intersection and union of two arrays of intervals.
 
+### [8] Two Sum
+
+Given a vector and a target, find all the pairs in the vector which have
+the difference equals tto target.
+
 ## Others
 
 ### [1] discountPrice
