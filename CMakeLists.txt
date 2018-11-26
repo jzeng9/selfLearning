@@ -26,4 +26,4 @@ include_directories(.)
 #add_executable(leetcode
 #        exampleCode.cpp)
 add_executable(selfLearning
-        discountPrice.cpp)
+        isCaptured.cpp)
