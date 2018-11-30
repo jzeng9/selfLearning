@@ -43,10 +43,21 @@ the difference equals tto target.
 
 ### [9]  Calculate Factorial for a large number
 
+How to calculate the factorial for a very large number.
+
+### [10] RateLimit
+
+Write a wrapper function to limit the recall rate of the function.
+
 ## Others
 
 ### [1] discountPrice
 
 There is a list of prices. Now try to discount the prices, based on the
 rules that each price subtract the first same or less price after them.
+
+### [2] beautyScore
+
+There are several spots and each spot has a beauty score. Try to design a
+visit path which can has the largest beauty score.
 
