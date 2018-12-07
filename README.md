@@ -49,6 +49,10 @@ How to calculate the factorial for a very large number.
 
 Write a wrapper function to limit the recall rate of the function.
 
+### [11] Linked List Based Stack
+
+Implement a stack based on linked list.
+
 ## Others
 
 ### [1] discountPrice
